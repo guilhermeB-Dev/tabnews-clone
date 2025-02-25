@@ -1,0 +1,24 @@
+{
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Implementation of https://www.tabnews.com.br for https://curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeB-Dev/tabnews-clone.git"
+  },
+  "author": "Guilherme Buchman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermeB-Dev/tabnews-clone/issues"
+  },
+  "homepage": "https://github.com/guilhermeB-Dev/tabnews-clone#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
